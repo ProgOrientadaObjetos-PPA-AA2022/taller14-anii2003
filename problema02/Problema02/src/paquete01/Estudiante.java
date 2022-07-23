@@ -75,9 +75,9 @@ public class Estudiante {
     public String toString(){
         String cadena = String.format("%s %s\n"
                 + "\tCalificaciones: \n"
-                + "\t %.1f \n"
-                + "\t %.1f \n"
-                + "\t %.1f \n"
+                + "\t%.1f \n"
+                + "\t%.1f \n"
+                + "\t%.1f \n"
                 + "\tPromedio %.1f \n",
                 nombre,
                 apellido,
